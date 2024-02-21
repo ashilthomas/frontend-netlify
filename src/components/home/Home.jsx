@@ -6,7 +6,7 @@ import Ourworks from "../work/Ourworks";
 import About from "../about/About";
 import Contact from "../contact/Contact";
 import Footer from "../footer/Footer";
-import { useSelector } from "react-redux";
+
 
 function Home() {
 

@@ -1,7 +1,7 @@
 import "./contact.css";
 import React, { useState } from "react";
 import { Button } from "react-bootstrap";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 function Contact() {
