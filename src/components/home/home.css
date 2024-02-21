@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Barlow', sans-serif
+  }
+
+  .parallax-container {
+ 
+    background-attachment: fixed;
+    height: 100vh;
+    background: url('https://wallpapercave.com/wp/wp5052845.jpg') ;
+   
+    text-align: center;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  .parallax-text {
+    font-size: 2em;
+    color: white;
+    font-size: 100px;
+    font-weight: 900;
+  }
+ .parallax-text p{
+font-size: x-large;
+  }

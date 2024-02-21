@@ -1,0 +1,56 @@
+.service-section{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
+    url("https://images.pexels.com/photos/9665182/pexels-photo-9665182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+
+ 
+}
+.service-section h2{
+  padding-top: 50px;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.service-main {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  padding-bottom: 100px;
+
+  }
+  
+  .service p {
+   text-align: center;
+  }
+  .service {
+    width: 18rem;
+    height: 18rem;
+    margin: 10px;
+  border: 1px solid #fff;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .service h2{
+  color: #fff;
+  }
+  
+  .service p{
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  }
+  
+  .hb{
+    color: white !important; 
+    
+  }
+
+  .text{
+    color: white !important;
+  }

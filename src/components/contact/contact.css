@@ -1,0 +1,40 @@
+
+.contact{
+
+    background-image: linear-gradient(rgba(80, 80, 80, 0.7), rgba(80, 80, 80, 0.7)),
+    url("https://wallpaperaccess.com/full/4731148.jpg");
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+}
+.contact-form-container {
+  width: 700px;
+    /* margin: 50px auto; */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+  
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
